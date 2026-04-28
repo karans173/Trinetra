@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const QueueSlot = require('../backend/src/models/QueueSlot');
 
-mongoose.connect('mongodb+srv://mukulgenious123_db_user:vDZhFVakdZapyxIT@cluster0.rsegru3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0')
+mongoose.connect(URL)
 
 
 
