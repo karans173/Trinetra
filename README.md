@@ -20,15 +20,6 @@ It combines **Computer Vision**, **Machine Learning**, and **real-time analytics
 
 ---
 
-## 📱 Mobile App Screenshots
-
-<img width="964" height="716" alt="image" src="https://github.com/user-attachments/assets/824d2eb6-d65c-4656-ac93-bb211a93f8db" />
-
-
-*The Trinetra mobile app enables on-ground officers to monitor live crowd flow, queue lengths, and risk predictions through a simple UI.*
-
----
-
 ## 🖥️ Temple Dashboard
 
 <img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/53e769e1-2751-409f-965d-8ca5f20d464a" />
